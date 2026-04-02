@@ -59,7 +59,7 @@
     </main>
 
     <footer>
-        <p>Desenvolvido para o projeto viagens--landing-page</p>
+        <p>https://github.com/marceloOkazawa/viagens--landing-page</p>
     </footer>
 
 </body>
